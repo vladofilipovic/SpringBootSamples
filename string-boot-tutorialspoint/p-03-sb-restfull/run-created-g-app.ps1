@@ -1,0 +1,1 @@
+java -jar ./build/libs/p-03-sb-restfull-0.0.1-SNAPSHOT.jar

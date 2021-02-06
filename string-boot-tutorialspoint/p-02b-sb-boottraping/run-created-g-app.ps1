@@ -1,0 +1,1 @@
+java -jar ./build/libs/p-02b-sb-boottraping-0.0.1-SNAPSHOT.jar

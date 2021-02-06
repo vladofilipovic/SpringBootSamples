@@ -1,0 +1,1 @@
+spring run Zdravo.groovy
